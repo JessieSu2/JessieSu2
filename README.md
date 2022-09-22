@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![LinkedIn](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![LinkedIn](https://img.shields.io/badge/<LinkedIn>-<Background Color>000000?style=for-the-badge&logo=LinkedIn&logoColor=white)
+
+ttps://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
