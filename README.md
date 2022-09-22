@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![LinkedIn](https://img.shields.io/badge/<LinkedIn>-<Background Color>000000?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
-ttps://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
