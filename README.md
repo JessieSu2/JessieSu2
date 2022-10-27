@@ -21,8 +21,9 @@ Here are some ideas to get you started:
    />
 </p>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)]( https://www.linkedin.com/in/jessiesu01/)
-If you're browsing my GitHub I would love for you to connect with me on LinkedIn!
+<div>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)]( https://www.linkedin.com/in/jessiesu01/)
+  If you're browsing my GitHub I would love for you to connect with me on LinkedIn!
+</div>
 
 ![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
