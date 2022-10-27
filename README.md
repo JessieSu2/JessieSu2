@@ -76,9 +76,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" >
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" >
-    </a>
-    <a href="#">
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" >
     </a>
     <a href="#">
@@ -92,6 +89,9 @@ Here are some ideas to get you started:
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" >
     </a>
   </div>
 
