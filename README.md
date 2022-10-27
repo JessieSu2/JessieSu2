@@ -93,8 +93,9 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" >
     </a>
   </div>
----
-<
+
+<h2>About Me💚</2h>
+
 <p align="center">  
   <a href="#">
     <img src="https://github.com/JessieSu2/JessieSu2/blob/main/photo-1616588589676-62b3bd4ff6d2.jfif" width="400" >
