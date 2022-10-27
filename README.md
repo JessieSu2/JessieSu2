@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Jessie 🍡 </h1>
+
 <!--
 **JessieSu2/JessieSu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
                   ✅Student Software Developer <br> 
                   ✅CUNY Tech Prep Fellow <br> 
