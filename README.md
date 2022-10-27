@@ -75,8 +75,23 @@ Here are some ideas to get you started:
      <a href="#">
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" >
     </a>
-     <a href="#">
+    <a href="#">
       <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
     </a>
   </div>
 
