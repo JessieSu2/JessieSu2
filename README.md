@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jessiesu01/">
-  <img 
-       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-  /> 
+    <img 
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    /> 
   </a>
-  If you're browsing my GitHub I would love for you to connect with me on LinkedIn!
+  <p padding-bottom="15px">
+    If you're browsing my GitHub I would love for you to connect with me on LinkedIn!
+  </p>
 </div>
 
 ![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
