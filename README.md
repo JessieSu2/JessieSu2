@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#" align="center">
-  <img src="https://komarev.com/ghpvc/?username=JessieSu2&color=blue" >
-</a>
-
+<div align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=JessieSu2&color=blue" >
+  </a>
+</div>
 <p align="center">
                   ✅Student Software Developer <br> 
                   ✅CUNY Tech Prep Fellow <br> 
