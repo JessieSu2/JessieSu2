@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
 </p align="center">  
   <a href="#" align="center">
-    <img src="https://github.com/JessieSu2/JessieSu2/blob/main/photo-1616588589676-62b3bd4ff6d2.jfif" width="400" />
+    <img align="center" src="https://github.com/JessieSu2/JessieSu2/blob/main/photo-1616588589676-62b3bd4ff6d2.jfif" width="400" />
    </a>
 </p>
 
