@@ -27,7 +27,6 @@ Here are some ideas to get you started:
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     /> 
   </a>
-    If you're browsing my GitHub I would love for you to connect with me on LinkedIn!
 </p>
 
 ![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
