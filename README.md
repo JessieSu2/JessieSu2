@@ -26,7 +26,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > 
   </a>
 </p>
- 
+
+<p align="center">
+  <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=JessieSu2&show_icons=true&count_private=true&theme=dark" width="350"> </a>
+</p>
+
 ### :hammer_and_wrench: Languages and Tools :
   <div align="center">
     <a href="#">
@@ -100,10 +104,6 @@ Here are some ideas to get you started:
   <a href="#">
     <img src="https://github.com/JessieSu2/JessieSu2/blob/main/photo-1616588589676-62b3bd4ff6d2.jfif" width="400" >
    </a>
-</p>
-
-<p align="center">
-  <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=JessieSu2&show_icons=true&count_private=true&theme=dark" width="350"> </a>
 </p>
 
 ![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
