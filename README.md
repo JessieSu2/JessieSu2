@@ -42,6 +42,42 @@ Here are some ideas to get you started:
     <a href="#">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" >
     </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" >
+    </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" >
+    </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" >
+    </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" >
+    </a>
+     <a href="#">
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" >
+    </a>
+     <a href="#">
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" >
+    </a>
+     <a href="#">
+      <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" >
+    </a>
   </div>
 
 <p align="center">  
