@@ -84,9 +84,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" >
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" >
-    </a>
-    <a href="#">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
     </a>
     <a href="#">
