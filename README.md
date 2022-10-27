@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="#"> <img src="https://activity-graph.herokuapp.com/graph?username=JessieSu2&theme=dark"> </a>
+  <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=JessieSu2&show_icons=true&count_private=true&theme=dark" width="350"> </a>
 </p>
 
 ![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
