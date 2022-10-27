@@ -19,7 +19,6 @@ Here are some ideas to get you started:
      width="400" 
    />
 </p>
-<p align="center"> Student Software Developer  CUNY Tech Prep Fellow  Frontend developer  Gaming enthusiast </p>
 <p text-align="center" display="inline">
   <a href="https://www.linkedin.com/in/jessiesu01/">
     <img 
