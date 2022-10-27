@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Jessie 🍡 </h1>
-
+<p align="center">Student Software Developer | CUNY Tech Prep Fellow | Frontend developer | Gaming enthusiast</p>
 <!--
 **JessieSu2/JessieSu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
