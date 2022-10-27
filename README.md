@@ -26,7 +26,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > 
   </a>
 </p>
-  
+ 
+---
+### :hammer_and_wrench: Languages and Tools :
+
 <p align="center">  
   <a href="#">
     <img src="https://github.com/JessieSu2/JessieSu2/blob/main/photo-1616588589676-62b3bd4ff6d2.jfif" width="400" >
