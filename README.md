@@ -98,7 +98,7 @@ Here are some ideas to get you started:
     </a>
   </div>
 
-<h2>About Me💚</2h>
+<h2 align="center">About Me💚</2h>
 
 <p align="center">  
   <a href="#">
