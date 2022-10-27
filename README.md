@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#">
-  <img src="https://komarev.com/ghpvc/?username=JessieSu2&color=green" >
-  
+<a href="#" align="center">
+  <img src="https://komarev.com/ghpvc/?username=JessieSu2&color=blue" >
 </a>
 
 <p align="center">
