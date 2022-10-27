@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 </h1>
+<h1 align="center">Hi there 👋 I'm Jessie :dango:</h1>
 
 <!--
 **JessieSu2/JessieSu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
