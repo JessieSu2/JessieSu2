@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
 ---
 ### :hammer_and_wrench: Languages and Tools :
-  <div>
+  <div align="center">
     <a href="#">
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
     </a>
