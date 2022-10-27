@@ -21,15 +21,15 @@ Here are some ideas to get you started:
                   ✅Gaming enthusiast <br>
 </p>
   
-<p align="center" display="inline">
+<p align="center">
   <a href="https://www.linkedin.com/in/jessiesu01/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > 
   </a>
 </p>
   
 </p align="center">  
   <a href="#">
-    <img src="https://github.com/JessieSu2/JessieSu2/blob/main/photo-1616588589676-62b3bd4ff6d2.jfif" width="400" />
+    <img src="https://github.com/JessieSu2/JessieSu2/blob/main/photo-1616588589676-62b3bd4ff6d2.jfif" width="400" >
    </a>
 </p>
 
