@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">✅Student Software Developer <br> 
+<p align="center">![](https://komarev.com/ghpvc/?username=JessieSu2)
+                  ✅Student Software Developer <br> 
                   ✅CUNY Tech Prep Fellow <br> 
                   ✅Frontend developer <br>  
                   ✅Gaming enthusiast <br></p>
