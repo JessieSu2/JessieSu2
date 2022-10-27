@@ -18,8 +18,8 @@ Here are some ideas to get you started:
                   ✅Student Software Developer <br> 
                   ✅CUNY Tech Prep Fellow <br> 
                   ✅Frontend developer <br>  
-                  ✅Gaming enthusiast <br></p>
-</ p>
+                  ✅Gaming enthusiast <br>
+</p>
   
 <p align="center" display="inline">
   <a href="https://www.linkedin.com/in/jessiesu01/">
