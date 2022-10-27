@@ -102,10 +102,4 @@ Here are some ideas to get you started:
 
 <h2 align="center">About Me💚</2h>
 
-<p align="center">  
-  <a href="#">
-    <img src="https://github.com/JessieSu2/JessieSu2/blob/main/photo-1616588589676-62b3bd4ff6d2.jfif" width="400" >
-   </a>
-</p>
-
 ![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
