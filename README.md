@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   </a>
 </p>
  
---
 ### :hammer_and_wrench: Languages and Tools :
   <div align="center">
     <a href="#">
