@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://komarev.com/ghpvc/?username=JessieSu2&color=green)
+<a href="#">
+  ![](https://komarev.com/ghpvc/?username=JessieSu2&color=green)
+</a>
 
 <p align="center">
                   ✅Student Software Developer <br> 
