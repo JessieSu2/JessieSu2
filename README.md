@@ -1,6 +1,4 @@
 <h1 align="center">Hi there 👋 I'm Jessie :dango:</h1>
-
-<p align="center"> Student Software Developer  CUNY Tech Prep Fellow  Frontend developer  Gaming enthusiast </p>
 <!--
 **JessieSu2/JessieSu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
      width="400" 
    />
 </p>
-
+<p align="center"> Student Software Developer  CUNY Tech Prep Fellow  Frontend developer  Gaming enthusiast </p>
 <p text-align="center" display="inline">
   <a href="https://www.linkedin.com/in/jessiesu01/">
     <img 
