@@ -29,7 +29,6 @@ Here are some ideas to get you started:
  
 ---
 ### :hammer_and_wrench: Languages and Tools :
-#### Database:
   <div>
     <a href="#">
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
@@ -37,10 +36,6 @@ Here are some ideas to get you started:
     <a href="#">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
     </a>
-  </div>
-  
-#### Design:
-  <div>
     <a href="#">
       <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" >
     </a>
