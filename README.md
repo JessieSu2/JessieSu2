@@ -102,5 +102,8 @@ Here are some ideas to get you started:
 
 <h2 align="center">About Me💚</h2>
 
- - 🎮 I currently I love playing games from ![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white) especially Valorant
+<p align="center">
+  
+🎮 I currently I love playing games from ![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white) especially Valorant
 
+</p>
