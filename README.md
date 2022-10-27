@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=JessieSu2)
 <p align="center">
                   ✅Student Software Developer <br> 
                   ✅CUNY Tech Prep Fellow <br> 
@@ -36,6 +35,6 @@ Here are some ideas to get you started:
      width="400" 
    />
 </p>
-
+https://activity-graph.herokuapp.com/graph?username={JessieSu2}&theme=minimal
 
 ![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
