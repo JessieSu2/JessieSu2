@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img style="display: block
-           margin-left: auto
-           margin-right: auto
-           width: 30%
+<img style="display: block;
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;
      src="https://github.com/JessieSu2/JessieSu2/blob/main/photo-1616588589676-62b3bd4ff6d2.jfif" 
      width="800" />
 
