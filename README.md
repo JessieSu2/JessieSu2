@@ -37,7 +37,12 @@ Here are some ideas to get you started:
     <a href="#">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
     </a>
-  
+  </div>
+#### Design:
+  <div>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" >
+    </a>
   </div>
 
 <p align="center">  
