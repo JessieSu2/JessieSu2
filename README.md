@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img style="text-align: center;
+<p align="center">
+  <img style="text-align: center;
             justify-content:center;"
      src="https://github.com/JessieSu2/JessieSu2/blob/main/photo-1616588589676-62b3bd4ff6d2.jfif" 
      width="800" />
+</p>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)]( https://www.linkedin.com/in/jessiesu01/)
 
