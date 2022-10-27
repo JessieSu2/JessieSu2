@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">Student Software Developer <br> CUNY Tech Prep Fellow  Frontend developer  Gaming enthusiast</p>
+<p align="center">✅Student Software Developer <br> 
+                  ✅CUNY Tech Prep Fellow <br> 
+                  ✅Frontend developer <br>  
+                  ✅Gaming enthusiast <br></p>
 <p align="center">
   <img 
      src="https://github.com/JessieSu2/JessieSu2/blob/main/photo-1616588589676-62b3bd4ff6d2.jfif" 
