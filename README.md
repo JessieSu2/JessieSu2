@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)]( https://www.linkedin.com/in/jessiesu01/)
 
 ![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
+<img src="{https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white}" />
