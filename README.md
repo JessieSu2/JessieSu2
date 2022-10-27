@@ -35,6 +35,9 @@ Here are some ideas to get you started:
      width="400" 
    />
 </p>
-![test](https://activity-graph.herokuapp.com/graph?username={JessieSu2}&theme=minimal)
+
+<p align="center">
+  <a href="#" <img src="https://activity-graph.herokuapp.com/graph?username={JessieSu2}&theme=dark"> </a>
+</p>
 
 ![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
