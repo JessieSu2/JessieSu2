@@ -29,13 +29,13 @@ Here are some ideas to get you started:
   </a>
   
 </p>  
-  <a href="#"
+  <a href="#">
     <img src="https://github.com/JessieSu2/JessieSu2/blob/main/photo-1616588589676-62b3bd4ff6d2.jfif" width="400" />
    </a>
 </p>
 
 <p align="center">
-  <a href="#" <img src="https://activity-graph.herokuapp.com/graph?username={JessieSu2}&theme=dark"> </a>
+  <a href="#"> <img src="https://activity-graph.herokuapp.com/graph?username={JessieSu2}&theme=dark"> </a>
 </p>
 
 ![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
