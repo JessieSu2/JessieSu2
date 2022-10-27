@@ -27,7 +27,7 @@ Here are some ideas to get you started:
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     /> 
   </a>
-  <p padding-bottom="15px">
+  <p>
     If you're browsing my GitHub I would love for you to connect with me on LinkedIn!
   </p>
 </div>
