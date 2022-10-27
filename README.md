@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="#">
-  ![](https://komarev.com/ghpvc/?username=JessieSu2&color=green)
+  <img src="https://komarev.com/ghpvc/?username=JessieSu2&color=green" >
+  
 </a>
 
 <p align="center">
