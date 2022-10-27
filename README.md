@@ -29,6 +29,16 @@ Here are some ideas to get you started:
  
 ---
 ### :hammer_and_wrench: Languages and Tools :
+## Database:
+  <div>
+    <a href="#">
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
+    </a>
+  
+  </div>
 
 <p align="center">  
   <a href="#">
