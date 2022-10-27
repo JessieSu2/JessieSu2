@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    />
 </p>
 
-<p align="center" display="inline">
+<p text-align="center" display="inline">
   <a href="https://www.linkedin.com/in/jessiesu01/">
     <img 
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
