@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=JessieSu2&color=green)
+
 <p align="center">
                   ✅Student Software Developer <br> 
                   ✅CUNY Tech Prep Fellow <br> 
