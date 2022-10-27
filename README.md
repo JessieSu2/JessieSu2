@@ -92,6 +92,9 @@ Here are some ideas to get you started:
     <a href="#">
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" >
     </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" >
+    </a>
   </div>
 
 <p align="center">  
