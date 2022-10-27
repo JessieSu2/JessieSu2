@@ -105,5 +105,6 @@ Here are some ideas to get you started:
 <div align="center">
   
 🎮 I currently I love playing games from ![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white) especially Valorant
-
+📫 How to reach me: JessieSu3@gmail.com
+🤔 I’m looking for help with finding internships and early career opportunities
 </div>
