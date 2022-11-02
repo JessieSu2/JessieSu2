@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-🎮 I currently I love playing games from
+🎮 I currently love playing games from
     <a href="https://tracker.gg/valorant/profile/riot/dango%23pie/overview">
       <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" >
     </a> especially Valorant
