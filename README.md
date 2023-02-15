@@ -109,11 +109,11 @@ Here are some ideas to get you started:
 <div align="center">
   
 🎮 I currently love playing games from
-    <a href="https://tracker.gg/valorant/profile/riot/dango%23pie/overview">
+    <a href="">
       <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" >
     </a> especially Valorant
   
 📫 How to reach me: JessieSu3@gmail.com
   
-🤔 I’m looking for help with finding internships and early career opportunities
+🤔 I’m looking for help with finding internships and early career opportunities, I do graduate in May 2023
 </div>
