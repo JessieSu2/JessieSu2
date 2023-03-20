@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 <p align="center">
                   ✅Student Software Developer <br> 
-                  ✅CUNY Tech Prep __Full Stack__ Fellow <br> 
+                  ✅CUNY Tech Prep __ Full Stack __ Fellow <br> 
                   ✅Frontend developer <br>  
                   ✅Gaming enthusiast <br>
 </p>
