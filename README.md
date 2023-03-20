@@ -18,12 +18,12 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=JessieSu2&color=blue" >
   </a>
 </div>
-<p align="center">
+<!-- <p align="center"> -->
                   ✅Student Software Developer <br> 
-                  ✅CUNY Tech Prep __ Full Stack __ Fellow <br> 
+                  ✅CUNY Tech Prep **Full Stack** Fellow <br> 
                   ✅Frontend developer <br>  
                   ✅Gaming enthusiast <br>
-</p>
+<!-- </p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jessiesu01/">
