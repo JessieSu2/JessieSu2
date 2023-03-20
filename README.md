@@ -18,7 +18,6 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=JessieSu2&color=blue" >
   </a>
 </div>
-**8test**
 <p align="center">
                   ✅Student Software Developer <br> 
                   ✅CUNY Tech Prep Full Stack Fellow <br> 
