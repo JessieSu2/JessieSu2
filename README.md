@@ -23,6 +23,7 @@ Here are some ideas to get you started:
                   ✅CUNY Tech Prep Full Stack Fellow <br> 
                   ✅Frontend developer <br>  
                   ✅Gaming enthusiast <br>
+                  ✅Graduating in May 2023 <br>
 </p>
 
 <p align="center">
@@ -115,5 +116,5 @@ Here are some ideas to get you started:
   
 📫 How to reach me: JessieSu3@gmail.com
   
-🤔 I’m looking for help with finding internships and early career opportunities, I do graduate in May 2023
+🤔 <span style="color:red">I’m looking for help with finding internships and early career opportunities, I graduate in May 2023</span>
 </div>
