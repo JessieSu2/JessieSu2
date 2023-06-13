@@ -19,11 +19,11 @@ Here are some ideas to get you started:
   </a>
 </div>
 <p align="center">
-                  ✅Student Software Developer <br> 
+                  ✅Software Developer <br> 
                   ✅CUNY Tech Prep Full Stack Fellow <br> 
-                  ✅Frontend developer <br>  
+                  ✅Full Stack Developer <br>  
                   ✅Gaming enthusiast <br>
-                  ✅Graduating in May 2023 <br>
+                  ✅Graduated in May 2023 <br>
 </p>
 
 <p align="center">
