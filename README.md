@@ -116,5 +116,5 @@ Here are some ideas to get you started:
   
 📫 How to reach me: JessieSu3@gmail.com
   
-🤔 <span style="color:red">I’m looking for help with finding internships and early career opportunities, I graduate in May 2023</span>
+🤔 <span style="color:red">I’m looking for help with finding internships and early career opportunities, I graduated in May 2023</span>
 </div>
